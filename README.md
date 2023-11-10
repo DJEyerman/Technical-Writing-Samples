@@ -1,4 +1,4 @@
-# Technical-Writing-Samples
+# Technical Writing Samples
 Repository of my technical writing using the Spurious Corporation, a fictional company
 
 Spurious Headquarters Building Health and Safety Manual
