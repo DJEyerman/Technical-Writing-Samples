@@ -24,6 +24,11 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     I then lead the effort to get the policy reviewed by the policy committee and get it approved 
     by senior management.  
 
+## Spurious Architectural Decision Record Template 
+    An architectural decision record (ADR) is a document that describes a choice the team makes
+    about a significant aspect of the software architecture they’re planning to build. Each 
+    ADR describes the architectural decision, its context, and its consequences.
+
 ## Spurious_CCBCharter.pdf
     A Change Control Board (CCB) Charter is a document that outlines the purpose, responsibilities, 
     structure, and processes of a Change Control Board within an organization. The CCB is typically 
@@ -61,7 +66,9 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     and objectives. The charter serves as a foundational document that defines 
     the TRB's role in technical governance.
     
-    Wrote the TRB Charter and then ran the Board for many years. 
+    I wrote the TRB Charter and then ran the Board for many years. 
+
+I have also written Standard Operating Procedure (SOP) guides, Installation and Configuration Guides, Requirement Documents, Training Exercises, Test Cases, Architectural Decisions, and many conference and training presentations.  
 
 
 
