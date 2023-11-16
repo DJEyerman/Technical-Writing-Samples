@@ -4,11 +4,11 @@ Repository of my technical writing using the Spurious Corporation, a fictional c
 Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in distilling intricate technical information into clear, user-friendly documentation. Explore diverse samples, from user manuals to software documentation, highlighting my commitment to elevating the user experience. Visual elements and case studies underscore my prowess in visual storytelling and problem-solving. This collection reflects not only my technical writing skills but also my adaptability across industries. Thank you for considering how my expertise can enhance your projects or organization.
 
 ## Spurious_800-53-MP_Media_and_Protection.pdf
-    Revised and updated this policy which, as outlined in NIST 800-53, focuses on implementing safeguards to prevent 
-    unauthorized access, disclosure, and alteration of sensitive information stored on different types of media. 
-    This includes considerations for both digital and physical media, such as hard drives, removable storage devices, 
-    and paper records. The goal is to ensure the confidentiality and integrity of information throughout its 
-    lifecycle, from creation to disposal.
+Revised and updated this policy which, as outlined in NIST 800-53, focuses on implementing safeguards to prevent 
+unauthorized access, disclosure, and alteration of sensitive information stored on different types of media. 
+This includes considerations for both digital and physical media, such as hard drives, removable storage devices, 
+and paper records. The goal is to ensure the confidentiality and integrity of information throughout its 
+lifecycle, from creation to disposal.
     
     I then lead the effort to get the policy reviewed by the policy committee and get it approved by senior management.  
 
