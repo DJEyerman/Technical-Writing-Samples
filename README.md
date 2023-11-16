@@ -9,6 +9,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     This includes considerations for both digital and physical media, such as hard drives, removable storage devices, 
     and paper records. The goal is to ensure the confidentiality and integrity of information throughout its 
     lifecycle, from creation to disposal.
+    
     I then lead the effort to get the policy reviewed by the policy committee and get it approved by senior management.  
 
 ## Spurious_800-53-SC_System_and_Communications_Protection.pdf
@@ -16,6 +17,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     related to networks, data flows, and communication channels within an organization's information systems. It 
     includes controls and guidelines for implementing measures such as boundary protections, network monitoring, 
     secure configurations, and controls to prevent unauthorized access and tampering of information during transmission.
+    
     I then lead the effort to get the policy reviewed by the policy committee and get it approved by senior management.  
 
 ## Spurious_CCBCharter.pdf
@@ -30,6 +32,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     guidelines to ensure the well-being and safety of individuals within a building or facility. The manual serves 
     as a valuable resource for building occupants, employees, contractors, and visitors, providing essential 
     information on safety measures, emergency procedures, and health-related protocols.
+    
     I created this document at the request of senior management on the return to the office after the COVID-19 
     pandemic and to fulfill an audit requirement.  The senior management was very impressed at the speed of 
     which the document was created and its content. 
@@ -39,6 +42,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     when bringing a new employee onboard. This flowchart provides a clear and structured overview of the various 
     stages and activities involved in the new hire process, from the initial recruitment phase to the employee's 
     integration into the company.
+    
     I created this flowchart as part of the project I lead to implement a new ITSM and asset management system. 
 
 ## Spurious_TRBCharter.pdf
@@ -47,6 +51,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     oversight and guidance on technical matters, ensuring that projects, systems, or processes align with 
     established technical standards and objectives. The charter serves as a foundational document that defines 
     the TRB's role in technical governance.
+    
     Wrote the TRB Charter and then ran the Board for many years. 
 
 
