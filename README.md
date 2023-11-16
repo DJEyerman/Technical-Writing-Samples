@@ -1,5 +1,5 @@
 # Technical Writing Samples
-Repository of my technical writing using the Spurious Corporation, a fictional company
+Repository of my technical writing featuring the Spurious Corporation, a fictional company
 
 Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in distilling intricate technical information into clear, user-friendly documentation. Explore diverse samples, from user manuals to software documentation, highlighting my commitment to elevating the user experience. Visual elements and case studies underscore my prowess in visual storytelling and problem-solving. This collection reflects not only my technical writing skills but also my adaptability across industries. Thank you for considering how my expertise can enhance your projects or organization.
 
