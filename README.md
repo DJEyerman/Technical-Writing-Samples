@@ -3,7 +3,7 @@ Repository of my technical writing featuring the Spurious Corporation, a fiction
 
 Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in distilling intricate technical information into clear, user-friendly documentation. Explore diverse samples, from user manuals to software documentation, highlighting my commitment to elevating the user experience. Visual elements and case studies underscore my prowess in visual storytelling and problem-solving. This collection reflects not only my technical writing skills but also my adaptability across industries. Thank you for considering how my expertise can enhance your projects or organization.
 
-## Spurious_800-53-MP_Media_and_Protection.pdf
+## Spurious 800-53-MP Media and Protection
     Revised and updated this policy which, as outlined in NIST 800-53, focuses on implementing 
     safeguards to prevent unauthorized access, disclosure, and alteration of sensitive 
     information stored on different types of media. This includes considerations for both 
@@ -14,7 +14,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     I then lead the effort to get the policy reviewed by the policy committee and get it approved 
     by senior management.  
 
-## Spurious_800-53-SC_System_and_Communications_Protection.pdf
+## Spurious 800-53-SC System and Communications Protection
     Revised and updated this policy which, as outlined in NIST 800-53, addresses a range of security 
     considerations related to networks, data flows, and communication channels within an organization's 
     information systems. It includes controls and guidelines for implementing measures such as boundary 
@@ -29,16 +29,21 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     about a significant aspect of the software architecture they’re planning to build. Each 
     ADR describes the architectural decision, its context, and its consequences.
 
-## Spurious_CCBCharter.pdf
+## Spurious CCBCharter
     A Change Control Board (CCB) Charter is a document that outlines the purpose, responsibilities, 
     structure, and processes of a Change Control Board within an organization. The CCB is typically 
     established to manage     and oversee changes to a project, system, or process. The charter 
     serves as a foundational document that defines the CCB's role in maintaining control and 
     ensuring the integrity of the change management process.
     
-    Wrote the CCB Charter and then ran the Board for many years. 
+    I wrote the CCB Charter and then ran the Board for many years. 
 
-## Spurious_Headquarters_Building_Health_and_Safety_Manual.pdf
+## Spurious Emergency Messaging Procedures Guide
+    
+    The guide was written for senior mamagement to instruct them on how and when to use 
+    the emergency messaging system implemented at a company. 
+
+## Spurious Headquarters Building Health and Safety Manual
     A Building Health and Safety Manual is a comprehensive document that outlines policies, 
     procedures, and guidelines to ensure the well-being and safety of individuals within a 
     building or facility. The manual serves as a valuable resource for building occupants, 
@@ -49,7 +54,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     after the COVID-19 pandemic and to fulfill an audit requirement.  The senior management 
     was very impressed at the speed of which the document was created and its content. 
 
-## Spurious_New_Hire_Flowchart.pdf
+## Spurious New Hire Flowchart
     A New Hire Flowchart is a visual representation of the step-by-step process that an 
     organization follows when bringing a new employee onboard. This flowchart provides a clear 
     and structured overview of the various stages and activities involved in the new hire 
@@ -58,7 +63,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     I created this flowchart as part of the project I lead to implement a new ITSM 
     and asset management system. 
 
-## Spurious_TRBCharter.pdf
+## Spurious TRBCharter
     A Technical Review Board (TRB) Charter is a document that outlines the purpose, 
     authority, structure, and processes of a Technical Review Board within an organization. 
     The TRB is typically established to provide oversight and guidance on technical matters, 
