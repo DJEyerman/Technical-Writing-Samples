@@ -73,8 +73,22 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     
     I wrote the TRB Charter and then ran the Board for many years. 
 
+## Documentation Example 
+    This is an example of documentation I have created for regression tests. It is also the same 
+    format I have used for install guides and lab instructions.  It is meant to be used both for 
+    educating a new user on the test and to guide the user through the test itself.  The goal 
+    of the document is for the new user to read this document and then be able to execute the 
+    test with limited if any assistance. 
+
+    The Unemployment Insurance Application depicted is an operational system that is 
+    publicly available on the internet.  
+
+    All data and any persons depicted are all fake test data.  Nothing is real.
+
 ## List of Publications
-    A list of the presentations I have given at various conferences over many years at locations in North America, Europe, Asia, and Australia.   
+    A list of the presentations I have given at various conferences over many years at 
+    locations in North America, Europe, Asia, and Australia.   
+    
 
 I have also written Standard Operating Procedure (SOP) guides, Installation and Configuration Guides, Requirement Documents, Training Exercises, Test Cases, Architectural Decisions, and many conference and training presentations.  
 
