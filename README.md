@@ -89,8 +89,17 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     A list of the presentations I have given at various conferences over many years at 
     locations in North America, Europe, Asia, and Australia.   
     
-
-I have also written Standard Operating Procedure (SOP) guides, Installation and Configuration Guides, Requirement Documents, Training Exercises, Test Cases, Architectural Decisions, and many conference and training presentations.  
+## Other Business and Technical Documents 
+    19 IT policies 
+    13 Agency wide ppolicies 
+    2 All Agency documents 
+    16 Regression test documents 
+    15 Architectural Decsion records 
+    11 IT Management & Procedure guides 
+    5 Process Workflows diagrams using Visio
+    57 SOP & Operations guides 
+    Test Cases
+    Conference and training presentations 
 
 
 
