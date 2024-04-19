@@ -22,17 +22,8 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     and tampering of information during transmission.
     
     I then led the effort to get the policy reviewed by the policy committee and get it approved 
-    by senior management.  
-    
-## Spurious New Hire Flowchart
-    A New Hire Flowchart is a visual representation of the step-by-step process that an 
-    organization follows when bringing a new employee onboard. This flowchart provides a clear 
-    and structured overview of the various stages and activities involved in the new hire 
-    process, from the initial recruitment phase to the employee's integration into the company.
-    
-    I created this flowchart as part of the project I led to implement a new ITSM 
-    and asset management system. 
-    
+    by senior management.    
+  
 ## Documentation Example 
     This is an example of documentation I have created for regression tests. It is also the same 
     format I have used for install guides and lab instructions.  It is meant to be used both for 
@@ -44,7 +35,16 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     publicly available on the internet.  
 
     All data and any persons depicted are all fake test data.  Nothing is real.
-
+    
+## Spurious New Hire Flowchart
+    A New Hire Flowchart is a visual representation of the step-by-step process that an 
+    organization follows when bringing a new employee onboard. This flowchart provides a clear 
+    and structured overview of the various stages and activities involved in the new hire 
+    process, from the initial recruitment phase to the employee's integration into the company.
+    
+    I created this flowchart as part of the project I led to implement a new ITSM 
+    and asset management system. 
+    
 ## Spurious Change Managment Process Flowchart - 2 Diagrams
     These are flowcharts covering the change management process for Sperious Corp.  The first 
     covers the normal change process from request to deployment while the second covers 
