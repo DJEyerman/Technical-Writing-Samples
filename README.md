@@ -11,7 +11,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     records. The goal is to ensure the confidentiality and integrity of information 
     throughout its lifecycle, from creation to disposal.
     
-    I then lead the effort to get the policy reviewed by the policy committee and get it approved 
+    I then led the effort to get the policy reviewed by the policy committee and get it approved 
     by senior management.  
 
 ## Spurious 800-53-SC System and Communications Protection
@@ -21,14 +21,40 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     protections, network monitoring, secure configurations, and controls to prevent unauthorized access 
     and tampering of information during transmission.
     
-    I then lead the effort to get the policy reviewed by the policy committee and get it approved 
+    I then led the effort to get the policy reviewed by the policy committee and get it approved 
     by senior management.  
+    
+## Spurious New Hire Flowchart
+    A New Hire Flowchart is a visual representation of the step-by-step process that an 
+    organization follows when bringing a new employee onboard. This flowchart provides a clear 
+    and structured overview of the various stages and activities involved in the new hire 
+    process, from the initial recruitment phase to the employee's integration into the company.
+    
+    I created this flowchart as part of the project I led to implement a new ITSM 
+    and asset management system. 
+    
+## Documentation Example 
+    This is an example of documentation I have created for regression tests. It is also the same 
+    format I have used for install guides and lab instructions.  It is meant to be used both for 
+    educating a new user on the test and to guide the user through the test itself.  The goal 
+    of the document is for the new user to read this document and then be able to execute the 
+    test with limited if any assistance. 
 
-## Spurious Architectural Decision Record Template 
-    An architectural decision record (ADR) is a document that describes a choice the team makes
-    about a significant aspect of the software architecture they’re planning to build. Each 
-    ADR describes the architectural decision, its context, and its consequences.
+    The Unemployment Insurance Application depicted is an operational system that is 
+    publicly available on the internet.  
 
+    All data and any persons depicted are all fake test data.  Nothing is real.
+
+## Spurious Change Managment Process Flowchart - 2 Diagrams
+    These are flowcharts covering the change management process for Sperious Corp.  The first 
+    covers the normal change process from request to deployment while the second covers 
+    the process for an emergency change.  Both show what groups need to do what when and it 
+    shows how the groups need to work together. 
+
+    These were created for a project I led to fully document the change management 
+    process for an organization.  After completing the diagrams, I then wrote a 
+    procedure guide documenting each step of the process. 
+   
 ## Spurious CCBCharter
     A Change Control Board (CCB) Charter is a document that outlines the purpose, responsibilities, 
     structure, and processes of a Change Control Board within an organization. The CCB is typically 
@@ -38,8 +64,22 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     
     I wrote the CCB Charter and then ran the Board for many years. 
 
-## Spurious Emergency Messaging Procedures Guide
+## Spurious TRBCharter
+    A Technical Review Board (TRB) Charter is a document that outlines the purpose, 
+    authority, structure, and processes of a Technical Review Board within an organization. 
+    The TRB is typically established to provide oversight and guidance on technical matters, 
+    ensuring that projects, systems, or processes align with established technical standards 
+    and objectives. The charter serves as a foundational document that defines 
+    the TRB's role in technical governance.
     
+    I wrote the TRB Charter and then ran the Board for many years. 
+    
+## Spurious Architectural Decision Record Template 
+    An architectural decision record (ADR) is a document that describes a choice the team makes
+    about a significant aspect of the software architecture they’re planning to build. Each 
+    ADR describes the architectural decision, its context, and its consequences.
+
+## Spurious Emergency Messaging Procedures Guide
     The guide was written for senior mamagement to instruct them on how and when to use 
     the emergency messaging system implemented at a company. 
 
@@ -53,37 +93,6 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     I created this document at the request of senior management on the return to the office 
     after the COVID-19 pandemic and to fulfill an audit requirement.  The senior management 
     was very impressed at the speed of which the document was created and its content. 
-
-## Spurious New Hire Flowchart
-    A New Hire Flowchart is a visual representation of the step-by-step process that an 
-    organization follows when bringing a new employee onboard. This flowchart provides a clear 
-    and structured overview of the various stages and activities involved in the new hire 
-    process, from the initial recruitment phase to the employee's integration into the company.
-    
-    I created this flowchart as part of the project I lead to implement a new ITSM 
-    and asset management system. 
-
-## Spurious TRBCharter
-    A Technical Review Board (TRB) Charter is a document that outlines the purpose, 
-    authority, structure, and processes of a Technical Review Board within an organization. 
-    The TRB is typically established to provide oversight and guidance on technical matters, 
-    ensuring that projects, systems, or processes align with established technical standards 
-    and objectives. The charter serves as a foundational document that defines 
-    the TRB's role in technical governance.
-    
-    I wrote the TRB Charter and then ran the Board for many years. 
-
-## Documentation Example 
-    This is an example of documentation I have created for regression tests. It is also the same 
-    format I have used for install guides and lab instructions.  It is meant to be used both for 
-    educating a new user on the test and to guide the user through the test itself.  The goal 
-    of the document is for the new user to read this document and then be able to execute the 
-    test with limited if any assistance. 
-
-    The Unemployment Insurance Application depicted is an operational system that is 
-    publicly available on the internet.  
-
-    All data and any persons depicted are all fake test data.  Nothing is real.
 
 ## List of Publications
     A list of the presentations I have given at various conferences over many years at 
