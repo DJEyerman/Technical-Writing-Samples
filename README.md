@@ -100,7 +100,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     
 ## Other Business and Technical Documents 
     19 IT policies 
-    13 Agency wide ppolicies 
+    13 Agency wide policies 
     2 All Agency documents 
     16 Regression test documents 
     15 Architectural Decsion records 
