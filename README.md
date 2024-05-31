@@ -94,6 +94,21 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     after the COVID-19 pandemic and to fulfill an audit requirement.  The senior management 
     was very impressed at the speed of which the document was created and its content. 
 
+## TECH-B01-OperationalArchitectures
+    Presentation from the IBM Digital Experince 2015 conference.  The presentation will 
+    help you understand and implement the many facets of operational considerations and 
+    best practices when deploying or upgrading WebSphere Portal and Web Content Manager 
+    in an enterprise.  It covers the best and many ways to integrate WebSphere Portal 
+    based solutions with other social, process, storefront management and cloud solutions 
+    including IBM Connections and Connections Cloud, WebSphere Commerce, 
+    Smarter Process/BPM, and IBM SoftLayer.
+
+## TECH_B19 - Call the movers [v10]
+    Presentation from the IBM Digital Experince 2014 conference.  It covers how to move 
+    and on premise installation of IBM Digital Experienece to the cloud.  It covers 
+    sample architectures and sites customer examples.  Cloud specific deployment 
+    considerations are also covered.  
+
 ## List of Publications
     A list of the presentations I have given at various conferences over many years at 
     locations in North America, Europe, Asia, and Australia.   
