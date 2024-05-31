@@ -55,7 +55,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     process for an organization.  After completing the diagrams, I then wrote a 
     procedure guide documenting each step of the process. 
    
-## Spurious CCBCharter
+## Spurious CCB Charter
     A Change Control Board (CCB) Charter is a document that outlines the purpose, responsibilities, 
     structure, and processes of a Change Control Board within an organization. The CCB is typically 
     established to manage     and oversee changes to a project, system, or process. The charter 
@@ -64,7 +64,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     
     I wrote the CCB Charter and then ran the Board for many years. 
 
-## Spurious TRBCharter
+## Spurious TRB Charter
     A Technical Review Board (TRB) Charter is a document that outlines the purpose, 
     authority, structure, and processes of a Technical Review Board within an organization. 
     The TRB is typically established to provide oversight and guidance on technical matters, 
