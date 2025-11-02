@@ -34,7 +34,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     The Unemployment Insurance Application depicted is an operational system that is 
     publicly available on the internet.  
 
-    All data and any persons depicted are all fake test data.  Nothing is real.
+    All data and any persons depicted are for testing purposes only. 
     
 ## Spurious New Hire Flowchart
     A New Hire Flowchart is a visual representation of the step-by-step process that an 
@@ -45,8 +45,8 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     I created this flowchart as part of the project I led to implement a new ITSM 
     and asset management system. 
     
-## Spurious Change Managment Process Flowchart - 2 Diagrams
-    These are flowcharts covering the change management process for Sperious Corp.  The first 
+## Spurious Change Management Process Flowchart - 2 Diagrams
+    These are flowcharts covering the change management process for Spurious Corp.  The first 
     covers the normal change process from request to deployment while the second covers 
     the process for an emergency change.  Both show what groups need to do what when and it 
     shows how the groups need to work together. 
@@ -80,7 +80,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     ADR describes the architectural decision, its context, and its consequences.
 
 ## Spurious Emergency Messaging Procedures Guide
-    The guide was written for senior mamagement to instruct them on how and when to use 
+    The guide was written for senior management to instruct them on how and when to use 
     the emergency messaging system implemented at a company. 
 
 ## Spurious SOP Template 
@@ -99,8 +99,8 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     after the COVID-19 pandemic and to fulfill an audit requirement.  The senior management 
     was very impressed at the speed of which the document was created and its content. 
 
-## TECH-B01-OperationalArchitectures
-    Presentation from the IBM Digital Experince 2015 conference.  The presentation will 
+## TECH-B01-Operational Architectures
+    Presentation from the IBM Digital Experience 2015 conference.  The presentation will 
     help you understand and implement the many facets of operational considerations and 
     best practices when deploying or upgrading WebSphere Portal and Web Content Manager 
     in an enterprise.  It covers the best and many ways to integrate WebSphere Portal 
@@ -109,8 +109,8 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     Smarter Process/BPM, and IBM SoftLayer.
 
 ## TECH_B19 - Call the movers [v10]
-    Presentation from the IBM Digital Experince 2014 conference.  It covers how to move 
-    and on premise installation of IBM Digital Experienece to the cloud.  It covers 
+    Presentation from the IBM Digital Experience 2014 conference.  It covers how to move 
+    and on premise installation of IBM Digital Experience to the cloud.  It covers 
     sample architectures and sites customer examples.  Cloud specific deployment 
     considerations are also covered.  
 
@@ -123,7 +123,7 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     13 Agency wide policies 
     2 All Agency documents 
     16 Regression test documents 
-    15 Architectural Decsion records 
+    15 Architectural Decision records 
     11 IT Management & Procedure guides 
     5 Process Workflows diagrams using Visio
     57 SOP & Operations guides 
