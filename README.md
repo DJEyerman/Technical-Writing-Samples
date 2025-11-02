@@ -83,6 +83,11 @@ Welcome to my Technical Writing Portfolio, a curated showcase of my expertise in
     The guide was written for senior mamagement to instruct them on how and when to use 
     the emergency messaging system implemented at a company. 
 
+## Spurious SOP Template 
+    This is a sample SOP template I have used to create SOPs. I like it as it is sort and
+    to the point. Ir gives the reader the information they need and a reference to 
+    get additional information. 
+
 ## Spurious Headquarters Building Health and Safety Manual
     A Building Health and Safety Manual is a comprehensive document that outlines policies, 
     procedures, and guidelines to ensure the well-being and safety of individuals within a 
